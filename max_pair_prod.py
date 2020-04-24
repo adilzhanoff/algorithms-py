@@ -1,7 +1,3 @@
-from random import randint
-from decorateit.util import timer
-
-
 def max_pair_prod_naive(lst):
     """
     Naive solution that compares products of all possible pairs.

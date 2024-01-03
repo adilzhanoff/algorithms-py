@@ -11,3 +11,8 @@
 ### License
 
 This project is licensed under the GNU GPL v3 - see the [LICENSE](https://github.com/adilzhanoff/algorithms-py/blob/master/LICENSE) file for details
+
+```python
+def main():
+    pass
+```
